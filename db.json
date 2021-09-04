@@ -1,1 +1,53 @@
+[
+    {
+        "Courses" : {
+            "Language" : {
+                "Subject1" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject2" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                "Availability" : "Available"
+            },
+                "Subject3" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject4" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject5" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                }
+
+            },
+            "SKiils" : {
+                "Subject6" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject7" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject8" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject9" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                },
+                "Subject0" : {
+                    "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
+                    "Availability" : "Available"
+                }
+
+            }
+        }
+    }
+]
+
 
