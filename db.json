@@ -72,7 +72,7 @@
                     },
                     "Subject2" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
                     "Availability" : "Available"
-                },
+                    },
                     "Subject3" : {
                         "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
                         "Availability" : "Available"
@@ -86,38 +86,43 @@
                         "Availability" : "Available"
                     }
     
-                },
-                {
-                "id" : 2,
-                "SKiils" : {
-                    "id" : 1,
-                    "Subject6" : {
-                        "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
-                        "Availability" : "Available"
-                    },
-                    "id" : 2,
-                    "Subject7" : {
-                        "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
-                        "Availability" : "Available"
-                    },
-                    "id" : 3,
-                    "Subject8" : {
-                        "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
-                        "Availability" : "Available"
-                    },
-                    "id" : 4,
-                    "Subject9" : {
-                        "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
-                        "Availability" : "Available"
-                    },
-                    "id" : 5,
-                    "Subject0" : {
-                        "Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"} ,
-                        "Availability" : "Available"
-                    }
-    
                 }
             }
+        },
+        {
+            "id": 2,
+            "Skills" : [
+                {
+                    "id" : 1,
+                    "Subject6" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
+                    "availability" : "available"
+                }
+                },
+                {
+                    "id" : 2,
+                    "Subject7" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
+                    "availability" : "available"
+                }
+                },
+                {
+                    "id" : 3,
+                    "Subject8" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
+                    "availability" : "available"
+                }
+                },
+                {
+                    "id" : 4,
+                    "Subject9" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
+                    "availability" : "available"
+                }
+                },
+                {
+                    "id" : 5,
+                    "Subject0" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
+                    "availability" : "available"
+                }
+                }
+            ]
         }
     ]
 }
