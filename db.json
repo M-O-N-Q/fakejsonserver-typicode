@@ -135,5 +135,10 @@
         }
     ],
     "Admin" : [],
-    "Schedule" : []
+    "Schedule" : [],
+    "quotes" : {
+        "anime" : "Title",
+        "chacracter" : "author",
+        "quote" : "this is the body"
+    }
 }
