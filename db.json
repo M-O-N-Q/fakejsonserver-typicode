@@ -8,7 +8,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         },
         {
             "id" : 2,
@@ -18,7 +18,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         },
         {
             "id" : 3,
@@ -28,7 +28,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         },
         {
             "id" : 4,
@@ -38,7 +38,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         },
         {
             "id" : 5,
@@ -48,7 +48,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         },
         {
             "id" : 6,
@@ -58,7 +58,7 @@
             "Level" : "0",
             "Email" : "MYNAME@gmail.com",
             "Contact" : "09123456789",
-            "Profile-Picture" : "https://mysilte.com/userid/12345/profilepic/profpic092386.png"
+            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
         }
     ],
     "Courses" : [
@@ -141,31 +141,37 @@
         "id" : 1,
         "Title" : "This is the title",
         "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement"
+        "Content" : "this is the body of the body of the announcement",
+        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+            
     },
         {
         "id" : 2,
         "Title" : "This is the title",
         "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement"
+        "Content" : "this is the body of the body of the announcement",
+        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
         {
         "id" : 3,
         "Title" : "This is the title",
         "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement"
+        "Content" : "this is the body of the body of the announcement",
+        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
         {
         "id" : 4,
         "Title" : "This is the title",
         "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement"
+        "Content" : "this is the body of the body of the announcement",
+        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
         {
         "id" : 5,
         "Title" : "This is the title",
         "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement"
+        "Content" : "this is the body of the body of the announcement",
+        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
     ]
 }
