@@ -1,177 +1,237 @@
 {
-    "ProfileInfo" : [
-        {
-            "id" : 1,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        },
-        {
-            "id" : 2,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        },
-        {
-            "id" : 3,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        },
-        {
-            "id" : 4,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        },
-        {
-            "id" : 5,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        },
-        {
-            "id" : 6,
-            "Name" : "MYNAME",
-            "UserId" : "0975873264",
-            "Account-Type" : "Student",
-            "Level" : "0",
-            "Email" : "MYNAME@gmail.com",
-            "Contact" : "09123456789",
-            "Profile-Picture" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-        }
-    ],
-    "Courses" : [
-        {
-            "id" : 1,
-            "Language" : [
-                {
-                    "id" : 1,
-                    "Subject1" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 2,
-                    "Subject2" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 3,
-                    "Subject3" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 4,
-                    "Subject4" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 5,
-                    "Subject5" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                }
-                   
-            ]
-        },
-        {
-            "id": 2,
-            "Skills" : [
-                {
-                    "id" : 1,
-                    "Subject6" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 2,
-                    "Subject7" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 3,
-                    "Subject8" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 4,
-                    "Subject9" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                },
-                {
-                    "id" : 5,
-                    "Subject0" : {"Type-Price" : {"Group" : 2500, "One-to-One": 4000, "Self-Paced" : 2000, "Certified" : "Not Available"},
-                    "availability" : "available"
-                }
-                }
-            ]
-        }
-    ],
-    "Admin" : [],
-    "Schedule" : [],
-    "Post" : {"News":  [
-        {
-        "id" : 1,
-        "Title" : "This is the title",
-        "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement",
-        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-            
+  "ProfileInfo": [
+    {
+      "id": 1,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
-        {
-        "id" : 2,
-        "Title" : "This is the title",
-        "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement",
-        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    {
+      "id": 2,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
-        {
-        "id" : 3,
-        "Title" : "This is the title",
-        "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement",
-        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    {
+      "id": 3,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
-        {
-        "id" : 4,
-        "Title" : "This is the title",
-        "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement",
-        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    {
+      "id": 4,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
-        {
-        "id" : 5,
-        "Title" : "This is the title",
-        "Author" : "I am the author",
-        "Content" : "this is the body of the body of the announcement",
-        "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    {
+      "id": 5,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 6,
+      "Name": "MYNAME",
+      "UserId": "0975873264",
+      "Account-Type": "Student",
+      "Level": "0",
+      "Email": "MYNAME@gmail.com",
+      "Contact": "09123456789",
+      "Profile-Picture": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
-    ]}
+  ],
+  "Courses": [
+    {
+      "id": 1,
+      "Language": [
+        {
+          "id": 1,
+          "Subject1": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 2,
+          "Subject2": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 3,
+          "Subject3": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 4,
+          "Subject4": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 5,
+          "Subject5": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Skills": [
+        {
+          "id": 1,
+          "Subject6": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 2,
+          "Subject7": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 3,
+          "Subject8": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 4,
+          "Subject9": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        },
+        {
+          "id": 5,
+          "Subject0": {
+            "Type-Price": {
+              "Group": 2500,
+              "One-to-One": 4000,
+              "Self-Paced": 2000,
+              "Certified": "Not Available"
+            },
+            "availability": "available"
+          }
+        }
+      ]
+    }
+  ],
+  "Admin": [],
+  "Schedule": [],
+  "Post": {
+    "News": [
+      {
+        "id": 1,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 2,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 3,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 4,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 5,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      }
+    ]
+  }
 }
