@@ -136,9 +136,36 @@
     ],
     "Admin" : [],
     "Schedule" : [],
-    "quotes" : {
-        "anime" : "Title",
-        "character" : "author",
-        "quote" : "this is the body"
+    "Post" : [
+        {
+        "id" : 1,
+        "Title" : "This is the title",
+        "Author" : "I am the author",
+        "Content" : "this is the body of the body of the announcement"
+    },
+        {
+        "id" : 2,
+        "Title" : "This is the title",
+        "Author" : "I am the author",
+        "Content" : "this is the body of the body of the announcement"
+    },
+        {
+        "id" : 3,
+        "Title" : "This is the title",
+        "Author" : "I am the author",
+        "Content" : "this is the body of the body of the announcement"
+    },
+        {
+        "id" : 4,
+        "Title" : "This is the title",
+        "Author" : "I am the author",
+        "Content" : "this is the body of the body of the announcement"
+    },
+        {
+        "id" : 5,
+        "Title" : "This is the title",
+        "Author" : "I am the author",
+        "Content" : "this is the body of the body of the announcement"
     }
+    ]
 }
