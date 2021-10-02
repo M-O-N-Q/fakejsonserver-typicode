@@ -136,7 +136,7 @@
     ],
     "Admin" : [],
     "Schedule" : [],
-    "Post" : [
+    "Post" : {"News":  [
         {
         "id" : 1,
         "Title" : "This is the title",
@@ -173,5 +173,5 @@
         "Content" : "this is the body of the body of the announcement",
         "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
-    ]
+    ]}
 }
