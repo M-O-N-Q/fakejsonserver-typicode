@@ -193,7 +193,7 @@
       ]
     }
   ],
-  "Instructors": [
+  "Instructors": { "Info" : [
     {
       "id": 1,
       "userId": "0000000000",
@@ -294,7 +294,8 @@
         "subject 1"
       ]
     }
-  ],
+  ]
+  },
   "Post": {
     "News": [
       {
