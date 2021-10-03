@@ -199,20 +199,8 @@
       "userId": "0000000000",
       "Name": "Juan DeLa Cruz I",
       "AboutMe": "ako lang ito wala kayong magagawa",
-      "Skills": [
-        "skill 1",
-        "skill 2",
-        "skill 3",
-        "skill 4",
-        "skill 4"
-      ],
-      "Subjects": [
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1"
-      ],
+      "Skills": "skill 1\nskill 2\nskill 3\nskill 4",
+      "Subjects": "subject 1\nsubject 2\nsubject 3\nsubject 4",
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
     {
@@ -220,20 +208,8 @@
       "userId": "0000000001",
       "Name": "Juan DeLa Cruz II",
       "AboutMe": "ako lang ito wala kayong magagawa",
-      "Skills": [
-        "skill 1",
-        "skill 2",
-        "skill 3",
-        "skill 4",
-        "skill 4"
-      ],
-      "Subjects": [
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1"
-      ],
+      "Skills": "skill 1\nskill 2\nskill 3\nskill 4",
+      "Subjects": "subject 1\nsubject 2\nsubject 3\nsubject 4",
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
     {
@@ -241,20 +217,8 @@
       "userId": "0000000002",
       "Name": "Juan DeLa Cruz III",
       "AboutMe": "ako lang ito wala kayong magagawa",
-      "Skills": [
-        "skill 1",
-        "skill 2",
-        "skill 3",
-        "skill 4",
-        "skill 4"
-      ],
-      "Subjects": [
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1"
-      ],
+      "Skills": "skill 1\nskill 2\nskill 3\nskill 4",
+      "Subjects": "subject 1\nsubject 2\nsubject 3\nsubject 4",
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
     {
@@ -262,20 +226,8 @@
       "userId": "0000000003",
       "Name": "Juan DeLa Cruz IV",
       "AboutMe": "ako lang ito wala kayong magagawa",
-      "Skills": [
-        "skill 1",
-        "skill 2",
-        "skill 3",
-        "skill 4",
-        "skill 4"
-      ],
-      "Subjects": [
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1"
-      ],
+      "Skills": "skill 1\nskill 2\nskill 3\nskill 4",
+      "Subjects": "subject 1\nsubject 2\nsubject 3\nsubject 4",
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     },
     {
@@ -283,20 +235,8 @@
       "userId": "0000000004",
       "Name": "Juan DeLa Cruz V",
       "AboutMe": "ako lang ito wala kayong magagawa",
-      "Skills": [
-        "skill 1",
-        "skill 2",
-        "skill 3",
-        "skill 4",
-        "skill 4"
-      ],
-      "Subjects": [
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1",
-        "subject 1"
-      ],
+      "Skills": "skill 1\nskill 2\nskill 3\nskill 4",
+      "Subjects": "subject 1\nsubject 2\nsubject 3\nsubject 4",
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
   ]
