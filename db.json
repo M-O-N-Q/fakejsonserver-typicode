@@ -240,5 +240,79 @@
       "Pic" : "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
   ]
-  }
+  },
+  "News": [
+    {
+      "id": 1,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 2,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 3,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 4,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 5,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 6,
+      "Title": "This is the title a very very very very loooooooooooooooooooooooooong Title",
+      "Author": "I am the author",
+      "Pos": "CEO",
+      "Content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 7,
+      "Title": "This is the title",
+      "Author": "UPSKILL I.T. WORKSHOP",
+      "Pos": "Admin",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 8,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    },
+    {
+      "id": 9,
+      "Title": "This is the title",
+      "Author": "I am the author",
+      "Pos": "Instructor",
+      "Content": "this is the body of the body of the announcement",
+      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+    }
+  ]
 }
