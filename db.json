@@ -241,7 +241,7 @@
     }
   ]
   },
-  "News": [
+  "Post":{ "News": [
     {
       "id": 1,
       "Title": "This is the title",
@@ -315,4 +315,5 @@
       "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
     }
   ]
+}
 }
