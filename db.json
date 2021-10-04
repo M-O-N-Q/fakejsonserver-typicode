@@ -241,79 +241,74 @@
     }
   ]
   },
-  "Post":{ "News": [
-    {
-      "id": 1,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 2,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 3,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 4,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 5,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 6,
-      "Title": "This is the title a very very very very loooooooooooooooooooooooooong Title",
-      "Author": "I am the author",
-      "Pos": "CEO",
-      "Content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lauelit, sed quia nont esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 7,
-      "Title": "This is the title",
-      "Author": "UPSKILL I.T. WORKSHOP",
-      "Pos": "Admin",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 8,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    },
-    {
-      "id": 9,
-      "Title": "This is the title",
-      "Author": "I am the author",
-      "Pos": "Instructor",
-      "Content": "this is the body of the body of the announcement",
-      "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
-    }
-  ]
+{
+  "Post": {
+    "News": [
+      {
+        "id": 1,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 2,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 3,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 4,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Pos": "Instructor",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 5,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 6,
+        "Title": "This is the title a very very very very loooooooooooooooooooooooooong Title",
+        "Author": "I am the author",
+        "Content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemoe quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 7,
+        "Title": "This is the title",
+        "Author": "UPSKILL I.T. WORKSHOP",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 8,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      },
+      {
+        "id": 9,
+        "Title": "This is the title",
+        "Author": "I am the author",
+        "Content": "this is the body of the body of the announcement",
+        "Pic": "https://raw.githubusercontent.com/M-O-N-Q/picsample/main/Ghost.png"
+      }
+    ]
+  }
 }
 }
